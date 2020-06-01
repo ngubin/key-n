@@ -1,0 +1,24 @@
+{
+    "name": "gubin/key-n",
+    "description": "Generation a unique short key from the number.",
+    "version": "v1.0.1",
+    "keywords": [
+        "package", "binary", "octal", "decimal", "hexadecimal", "key", "short"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nik Gubin",
+            "email": "nik@labiis.com",
+            "homepage": "https://ngubin.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}

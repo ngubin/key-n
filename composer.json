@@ -1,7 +1,7 @@
 {
-    "name": "gubin/key-n",
+    "name": "ngubin/key-n",
     "description": "Generation a unique short key from the number.",
-    "version": "v1.0.1",
+    "version": "v1.0",
     "keywords": [
         "package", "binary", "octal", "decimal", "hexadecimal", "key", "short"
     ],
